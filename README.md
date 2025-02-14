@@ -110,6 +110,13 @@ Adjust folder paths, prompts, and other hyperparameters as needed. The output wi
 - [ ] Replicate Instance
 - [ ] Fine-Tuning Code
 
+<a name="community-adoption"></a>
+## :fire: Community Adoption
+
+- [Cut-and-drag using SAMv2](https://github.com/Pablerdo/hexaframe-dark) and its [web interface](https://hexaframe-dark.vercel.app/) by 
+Pablo Salamanca
+- [ComfyUI implementation](https://github.com/kijai/ComfyUI-VideoNoiseWarp) by @kijai
+
 <a name="citation"></a>
 ## :black_nib: Citation
 
