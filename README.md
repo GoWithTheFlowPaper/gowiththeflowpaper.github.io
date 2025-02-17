@@ -35,14 +35,17 @@ If you create something cool with our model - and want to share it on our websit
 
 If you like this project, please give it a ★!
 
-<a name="quick-start-cut-and-drag-motion-control"></a>
-## :rocket: Quick Start: Cut-and-drag Motion Control
+<a name="community-adoption"></a>
+## :fire: Community Adoption
 
-Cut-and-drag motion control lets you take an image, and create a video by cutting out different parts of that image and dragging them around.
+A huge thank you to all who contributed - videos to be added here soon!
 
-For cut-and-drag motion control, there are two parts: an GUI to create a crude animation (no GPU needed), then a diffusion script to turn that crude animation into a pretty one (requires GPU).
-
-**YouTube Tutorial**: [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=IO3pbQpT5F8)
+- [ComfyUI implementation](https://github.com/kijai/ComfyUI-VideoNoiseWarp) by @kijai
+- [HuggingFace Space](https://huggingface.co/spaces/fffiloni/Go-With-The-Flow) by fffiloni
+- [AnimateDiff Implementation](https://huggingface.co/spacepxl/Go-with-the-Flow-AD-converted/tree/main) by spacepxl
+- [HunyuanVideo Implementation](https://huggingface.co/spacepxl/HunyuanVideo-GoWithTheFlow-unofficial) by spacepxl
+- [Cut-and-drag using SAMv2](https://github.com/Pablerdo/hexaframe-dark) and its [web interface](https://hexaframe-dark.vercel.app/) by Pablo Salamanca
+- [Japanese Tutorial](https://youtu.be/n0NT-sltRK0) by Takamasa Tamura
 
 Examples:
 
@@ -53,6 +56,15 @@ Examples:
   <img src="assets/cut_and_drag_example_4.gif" width="80%">
   <img src="assets/cut_and_drag_example_5.gif" width="80%">
 </p>
+
+<a name="quick-start-cut-and-drag-motion-control"></a>
+## :rocket: Quick Start: Cut-and-drag Motion Control
+
+Cut-and-drag motion control lets you take an image, and create a video by cutting out different parts of that image and dragging them around.
+
+For cut-and-drag motion control, there are two parts: an GUI to create a crude animation (no GPU needed), then a diffusion script to turn that crude animation into a pretty one (requires GPU).
+
+**YouTube Tutorial**: [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=IO3pbQpT5F8)
 
 <a name="1-animation-template-gui-local"></a>
 ### 1. Animation Template GUI (Local)
@@ -109,13 +121,6 @@ Adjust folder paths, prompts, and other hyperparameters as needed. The output wi
 - [ ] Upload AnimateDiff Model
 - [ ] Replicate Instance
 - [ ] Fine-Tuning Code
-
-<a name="community-adoption"></a>
-## :fire: Community Adoption
-
-- [Cut-and-drag using SAMv2](https://github.com/Pablerdo/hexaframe-dark) and its [web interface](https://hexaframe-dark.vercel.app/) by 
-Pablo Salamanca
-- [ComfyUI implementation](https://github.com/kijai/ComfyUI-VideoNoiseWarp) by @kijai
 
 <a name="citation"></a>
 ## :black_nib: Citation
