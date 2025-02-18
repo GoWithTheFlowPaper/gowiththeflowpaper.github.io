@@ -41,7 +41,8 @@ If you like this project, please give it a ★!
 A huge thank you to all who contributed - videos to be added here soon!
 
 - [ComfyUI implementation](https://github.com/kijai/ComfyUI-VideoNoiseWarp) by @kijai
-- [HuggingFace Space](https://huggingface.co/spaces/fffiloni/Go-With-The-Flow) by fffiloni
+- [HuggingFace Space #1](https://huggingface.co/spaces/fffiloni/Go-With-The-Flow) by fffiloni
+- [HuggingFace Space #2](https://huggingface.co/spaces/OneOverZero/Go-With-The-Flow) by Ryan Burgert
 - [AnimateDiff Implementation](https://huggingface.co/spacepxl/Go-with-the-Flow-AD-converted/tree/main) by spacepxl
 - [HunyuanVideo Implementation](https://huggingface.co/spacepxl/HunyuanVideo-GoWithTheFlow-unofficial) by spacepxl
 - [Cut-and-drag using SAMv2](https://github.com/Pablerdo/hexaframe-dark) and its [web interface](https://hexaframe-dark.vercel.app/) by Pablo Salamanca
