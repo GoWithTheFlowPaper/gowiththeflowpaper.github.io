@@ -20,7 +20,7 @@ pipe_ids = dict(
 )
 
 # From a bird's-eye view, a serene scene unfolds: a herd of deer gracefully navigates shallow, warm-hued waters, their silhouettes stark against the earthy tones. The deer, spread across the frame, cast elongated, well-defined shadows that accentuate their antlers, creating a mesmerizing play of light and dark. This aerial perspective captures the tranquil essence of the setting, emphasizing the harmonious contrast between the deer and their mirror-like reflections on the water's surface. The composition exudes a peaceful stillness, yet the subtle movement suggested by the shadows adds a dynamic layer to the natural beauty and symmetry of the moment.
-base_url = 'https://huggingface.co/Eyeline-Research/Go-with-the-Flow/'
+base_url = "https://huggingface.co/Eyeline-Research/Go-with-the-Flow/resolve/main/"
 lora_urls = dict(
     I2V5B_final_i30000_lora_weights                          = base_url+'I2V5B_final_i30000_lora_weights.safetensors',
     I2V5B_final_i38800_nearest_lora_weights                  = base_url+'I2V5B_final_i38800_nearest_lora_weights.safetensors',
