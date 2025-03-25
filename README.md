@@ -4,6 +4,8 @@
   <img src="assets/Logo.png" alt="Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise" width="100%">
 </p>
 
+<h1> CVPR 2025 </h1>
+
 [![Project Page](https://img.shields.io/badge/Project-Page-green?logo=googlechrome&logoColor=green)](https://eyeline-research.github.io/Go-with-the-Flow/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2501.08331)
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=IO3pbQpT5F8)
@@ -129,13 +131,22 @@ Adjust folder paths, prompts, and other hyperparameters as needed. The output wi
 If you use this in your research, please consider citing:
 
 ```
-@misc{burgert2025gowiththeflowmotioncontrollablevideodiffusion,
-      title={Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise}, 
-      author={Ryan Burgert and Yuancheng Xu and Wenqi Xian and Oliver Pilarski and Pascal Clausen and Mingming He and Li Ma and Yitong Deng and Lingxiao Li and Mohsen Mousavi and Michael Ryoo and Paul Debevec and Ning Yu},
-      year={2025},
-      eprint={2501.08331},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.08331}, 
+@inproceedings{burgert2025gowiththeflow,
+  title={Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise},
+  author={Burgert, Ryan and Xu, Yuancheng and Xian, Wenqi and Pilarski, Oliver and Clausen, Pascal and He, Mingming and Ma, Li and Deng, Yitong and Li, Lingxiao and Mousavi, Mohsen and Ryoo, Michael and Debevec, Paul and Yu, Ning},
+  booktitle={CVPR},
+  year={2025}
 }
 ```
+
+<!-- ``` -->
+<!-- @misc{burgert2025gowiththeflowmotioncontrollablevideodiffusion, -->
+<!--       title={Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise},  -->
+<!--       author={Ryan Burgert and Yuancheng Xu and Wenqi Xian and Oliver Pilarski and Pascal Clausen and Mingming He and Li Ma and Yitong Deng and Lingxiao Li and Mohsen Mousavi and Michael Ryoo and Paul Debevec and Ning Yu}, -->
+<!--       year={2025}, -->
+<!--       eprint={2501.08331}, -->
+<!--       archivePrefix={arXiv}, -->
+<!--       primaryClass={cs.CV}, -->
+<!--       url={https://arxiv.org/abs/2501.08331},  -->
+<!-- } -->
+<!-- ``` -->
