@@ -4,7 +4,7 @@
   <img src="assets/Logo.png" alt="Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise" width="100%">
 </p>
 
-<h1> CVPR 2025 </h1>
+<h1> Accepted to CVPR 2025! </h1>
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green?logo=googlechrome&logoColor=green)](https://eyeline-research.github.io/Go-with-the-Flow/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2501.08331)
