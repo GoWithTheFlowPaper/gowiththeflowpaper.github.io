@@ -4,7 +4,7 @@
   <img src="assets/Logo.png" alt="Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise" width="100%">
 </p>
 
-<h1> Accepted to CVPR 2025! </h1>
+<h1> Accepted to CVPR 2025 as Oral </h1>
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green?logo=googlechrome&logoColor=green)](https://eyeline-research.github.io/Go-with-the-Flow/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2501.08331)
@@ -25,6 +25,7 @@
   - [Running Video Diffusion (GPU)](#2-running-video-diffusion-gpu)
 - [TODO](#todo)  
 - [Citation](#citation)
+- [Acknowledgement](#acknowledgement)
 
 <a name="abstract"></a>
 ## :book: Abstract 
@@ -150,3 +151,8 @@ If you use this in your research, please consider citing:
 <!--       url={https://arxiv.org/abs/2501.08331},  -->
 <!-- } -->
 <!-- ``` -->
+
+<a name="acknowledgement"></a>
+## :thumbsup: Acknowledgement
+
+We express gratitudes to the [CogVideoX](https://github.com/THUDM/CogVideo) and [RAFT](https://github.com/princeton-vl/RAFT) repositories as we benefit a lot from their code.
