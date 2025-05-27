@@ -1,3 +1,27 @@
 
 code_release/output_folder_new
 code_release/.nfs000000000322527c00009703
+
+#<RP Default Gitignore Start>
+*.pyc
+*.bak
+*.swo
+*.swp
+*.swn
+*.swm
+*.swh
+*.swi
+*.swj
+*.swk
+*.swl
+*.swm
+*.swn
+*.swo
+*.swp
+*.un~
+*.gstmp
+*.ipynb_checkpoints
+*.DS_Store
+#<RP Default Gitignore End>
+
+*.blend*
