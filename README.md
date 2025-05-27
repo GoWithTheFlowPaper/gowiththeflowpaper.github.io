@@ -136,9 +136,14 @@ If you use this in your research, please consider citing:
   title={Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise},
   author={Burgert, Ryan and Xu, Yuancheng and Xian, Wenqi and Pilarski, Oliver and Clausen, Pascal and He, Mingming and Ma, Li and Deng, Yitong and Li, Lingxiao and Mousavi, Mohsen and Ryoo, Michael and Debevec, Paul and Yu, Ning},
   booktitle={CVPR},
-  year={2025}
+  year={2025},
+  note={Licensed under Modified Apache 2.0 with special crediting requirement}
 }
 ```
+
+## :scroll: License
+
+This project is licensed under a Modified Apache License 2.0. While it is based on the standard Apache License, it includes an additional condition (Section 10) that requires anyone using this work to create videos in a motion picture, film, or any production with credits to include all authors of this paper in those credits.
 
 <!-- ``` -->
 <!-- @misc{burgert2025gowiththeflowmotioncontrollablevideodiffusion, -->
